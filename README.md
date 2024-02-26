@@ -59,6 +59,8 @@ We did use Artificial Intelligence in our solution. The use of the AI Stable Dif
 16. images.nasa.gov/details/GSFC_20161025_Eclipse_m12412_Path
 17. images.nasa.gov/details/GSFC_20110617_LRO_m10794_Eclipse_closeup
 
+<h4>FIGMA</h4>
+📱  https://www.figma.com/proto/p26XhGdqoT7ZRoSDGqGSlB/Proyecto-Space-App-Challenge?type=design&node-id=7-2&t=P9fPcjaOqjM50xkp-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=7%3A2&show-proto-sidebar=1&mode=design
 
 <h4>Members</h4>
  
